@@ -11,7 +11,7 @@
         android:usesCleartextTraffic="false">
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.arip.bugtools.MainActivity"
             android:exported="true">
 
             <intent-filter>
